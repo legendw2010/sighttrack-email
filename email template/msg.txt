@@ -1,0 +1,38 @@
+Dear Supervisors,
+
+This is a volunteer hours request from the SightTrack citizen science platform.
+
+VOLUNTEER INFORMATION:
+• Name: Unknown User
+• Email: sighttrackcontact@gmail.com
+• Total Hours Requested: 0.27 hours
+• Submission Date: June 12, 2025 at 11:54 AM
+
+SUMMARY:
+Unknown User has submitted 1 wildlife sightings for volunteer hour credit. The total calculated volunteer hours based on our standardized system is 0.27 hours.
+
+SIGHTINGS INCLUDED (1 total):
+   1. Animal - Oakville
+      Date: 2024-12-18T17:59:00.000000000Z
+      Notes: Author: james
+
+HOW HOURS ARE CALCULATED:
+• Base time: 15 minutes per sighting
+• Description bonus: +5 minutes per 50 characters of detailed observations 
+• Travel time: Based on GPS distance between consecutive sightings (assuming 30 km/h average speed)
+• Time window: Travel time only counted if sightings are within 2 hours of each other
+
+NEXT STEPS:
+Please review this volunteer hours request and verify the information. The volunteer has completed valuable citizen science work contributing to wildlife conservation and research efforts.
+
+If you approve these hours, please respond to this email with your approval. If you have any questions or need additional information, please contact the SightTrack team.
+
+Thank you for supporting our volunteers and citizen science initiatives.
+
+Best regards,
+SightTrack Volunteer Hours System
+volunteer@sighttrack.org
+
+---
+This is an automated message from the SightTrack platform.
+Generated on: June 12, 2025 at 03:54 PM UTC
